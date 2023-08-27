@@ -4,7 +4,7 @@ Welcome to the Canvas project! This is a simple canvas-based project that showca
 
 [![Play Canvas Game](https://hover-and-see.netlify.app)
 
-![Gameplay Screenshot](screenshots/screenshot.png)
+![Gameplay Screenshot](canvas-dot-2.png)
 
 ## Play the Game
 
