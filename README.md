@@ -8,7 +8,7 @@ Welcome to the Canvas project! This is a simple canvas-based project that showca
 ## Experience it yourself
 
 Click the badge below to play the game:
-[![Play Canvas Game](https://hover-and-see.netlify.app)
+[!Play Canvas Game](https://hover-and-see.netlify.app)
 
 ## Features
 
