@@ -7,8 +7,7 @@ Welcome to the Canvas project! This is a simple canvas-based project that showca
 
 ## Experience it yourself
 
-Click the badge below to see:
-[Click here](https://hover-and-see.netlify.app)
+[Click here](https://hover-and-see.netlify.app) and experience the satisfying effects yourself.
 
 ## Features
 
